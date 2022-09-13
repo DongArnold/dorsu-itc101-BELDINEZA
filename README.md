@@ -1,5 +1,5 @@
 # dorsu-itc101-BELDINEZA
-Why Java is on of the go to language nowdays?
+Why Java is one of the go to language nowdays?
 
 Because JAVA is one of the easy programming language that beginner can study. 
 Also, because java is Safe, Portable, and Maintanable. 
