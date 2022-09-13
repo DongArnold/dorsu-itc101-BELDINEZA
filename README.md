@@ -1,12 +1,5 @@
 # dorsu-itc101-BELDINEZA
 Why Java is on of the go to language nowdays?
-public class Why{
-   public static void main(String[] args)}
-        System.out.println("Because JAVA is one of the easy programming language that beginner can study.");
-        System.out.println("Also, because java is Safe, Portable, and Maintanable."); 
-        System.out.println("It is fun to study for beginners, and it is understandable.");
-   }
-}
 
 Because JAVA is one of the easy programming language that beginner can study. 
 Also, because java is Safe, Portable, and Maintanable. 
